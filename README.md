@@ -5,7 +5,6 @@ Hi, I'm Violeta! I'm a self-taught programmer and Philosophy major from Argentin
 ## 🤓 Interests
 
 - Back-end web development
-- GPU programming (machine learning, shaders)
 - Software benchmarking, [performance-aware programming](https://www.computerenhance.com/p/welcome-to-the-performance-aware) and optimization
 - Game engine/tools development (DIY, Godot)
 
