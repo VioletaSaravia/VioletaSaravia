@@ -9,5 +9,4 @@ Hi, I'm Violeta! I'm a self-taught programmer and Philosophy major from Argentin
 
 ## 🌐 Contact
 
-- Twitter: [@violeta_xyz](https://x.com/violeta_xyz)
 - Discord: @violetavioleta
