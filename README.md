@@ -1,6 +1,6 @@
 ## 💫 About Me
 
-Hi, I'm Violeta! I'm a self-taught programmer and Philosophy major from Argentina. I use this github account mainly for hobbist games development; I'm currently working on plugins for Godot and ocassional game jams.
+Hi, I'm Violeta! I'm a self-taught programmer from Argentina. I use this github account mainly for hobbist games development; I'm currently working on plugins for Godot and ocassional game jams.
 
 ## ⚗️ Projects
 
